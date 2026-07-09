@@ -2,7 +2,7 @@
 
 An automated job scraper that monitors software engineering internship opportunities across multiple company career pages. It now uses a layered raw-scraping flow: load the page with a browser fingerprint that looks like a returning user, extract structured data from the rendered page first, fall back to DOM heuristics when needed, then filter by keywords, store new results in Supabase, and send Discord notifications for new opportunities.
 
-https://discord.gg/qknsVkUa
+https://discord.gg/CcDDP5Mk9K
 
 ## Contributing
 
