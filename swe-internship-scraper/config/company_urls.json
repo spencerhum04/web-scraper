@@ -1,0 +1,220 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN&q=software&target_level=INTERN_AND_APPRENTICE&location=United%20States&location=Canada"
+    },
+    {
+      "name": "Meta",
+      "url": "https://www.metacareers.com/jobs?roles[0]=Internship&q=software"
+    },
+    {
+      "name": "Apple",
+      "url": "https://jobs.apple.com/en-us/search?sort=relevance&location=united-states-USA&key=internship+software+intern"
+    },
+    {
+      "name": "Ramp",
+      "url": "https://jobs.ashbyhq.com/ramp?employmentType=Intern"
+    },
+    {
+      "name": "Stripe",
+      "url": "https://stripe.com/jobs/search?query=intern&office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"
+    },
+    {
+      "name": "Wealthsimple",
+      "url": "https://jobs.lever.co/wealthsimple?commitment=Intern"
+    },
+    {
+      "name": "Palantir",
+      "url": "https://jobs.lever.co/palantir?commitment=Internship"
+    },
+    {
+      "name": "Databricks",
+      "url": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=United%20States"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://explore.jobs.netflix.net/careers?query=intern&Teams=Engineering&Teams=Engineering%20Operations&Region=ucan&domain=netflix.com&sort_by=relevance&triggerGoButton=true&pid=790302560337"
+    },
+    {
+      "name": "Rippling",
+      "url": "https://www.rippling.com/en-GB/careers/open-roles?search=intern&department=Engineering&location%5B0%5D=New%20York%2C%20NY&location%5B1%5D=Toronto%2C%20Canada&location%5B2%5D=Seattle%2C%20WA&location%5B3%5D=San%20Francisco%2C%20CA"
+    },
+    {
+      "name": "Citadel",
+      "url": "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"
+    },
+    {
+      "name": "Jane Street",
+      "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"
+    },
+    {
+      "name": "DRW",
+      "url": "https://job-boards.greenhouse.io/drweng?keyword=intern"
+    },
+    {
+      "name": "Two Sigma",
+      "url": "https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&"
+    },
+    {
+      "name": "Hudson River Trading",
+      "url": "https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"
+    },
+    {
+      "name": "Five Rings",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc"
+    },
+    {
+      "name": "Tower Research Capital",
+      "url": "https://tower-research.com/internships/#internship-opportunities"
+    },
+    {
+      "name": "IMC Trading",
+      "url": "https://www.imc.com/us/search-careers?jobOffices=Chicago%2CNew+York&jobTypes=Intern%2CProgram+Event%2CWorking+Student&page=1"
+    },
+    {
+      "name": "Optiver",
+      "url": "https://www.optiver.com/join-us/jobs/?level=internship"
+    },
+    {
+      "name": "SIG",
+      "url": "https://careers.sig.com/jobs?categories=Interns%20%2B%20Co-ops&page=1&locations=Bala%20Cynwyd%20(Philadelphia%20Area),Pennsylvania,United%20States%7CNew%20York,New%20York,United%20States&tags1=Quantitative%20Trading%20%2B%20Strategy%7CTechnology%20-%20Software%20Engineering"
+    },
+    {
+      "name": "Virtu Financial",
+      "url": "https://job-boards.greenhouse.io/virtu?departments%5B%5D=4023791002&departments%5B%5D=4042855002"
+    },
+    {
+      "name": "Jump Trading",
+      "url": "https://www.jumptrading.com/hr/students-new-grads"
+    },
+    {
+      "name": "Jump Crypto",
+      "url": "https://jumpcrypto.com/careers"
+    },
+    {
+      "name": "Point72",
+      "url": "https://careers.point72.com/?experience=internships&location=new%20york;chicago"
+    },
+    {
+      "name": "Uber",
+      "url": "https://www.uber.com/us/en/careers/list/?query=intern&department=University&location=USA-California-San%20Francisco&location=USA-California-Los%20Angeles&location=USA-New%20York-New%20York"
+    },
+    {
+      "name": "DoorDash",
+      "url": "https://job-boards.greenhouse.io/doordashusa?keyword=intern"
+    },
+    {
+      "name": "Roblox",
+      "url": "https://careers.roblox.com/jobs?type=internship"
+    },
+    {
+      "name": "Asana",
+      "url": "https://asana.com/jobs/university-recruiting#jobs"
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/careers/#job-openings"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=software&lc=Canada&lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"
+    },
+    {
+      "name": "Uniswap Labs",
+      "url": "https://job-boards.greenhouse.io/uniswaplabs"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions?search=internship"
+    },
+    {
+      "name": "1Password",
+      "url": "https://jobs.ashbyhq.com/1password?departmentId=f2de0151-4926-4164-9b2a-bad9e1dd5e6e"
+    },
+    {
+      "name": "Lyft",
+      "url": "https://www.lyft.com/careers#openings"
+    },
+    {
+      "name": "HubSpot",
+      "url": "https://www.hubspot.com/careers/jobs?hubs_signup-cta=careers-nav-cta&page=1#office=cambridge;"
+    },
+    {
+      "name": "HubSpot2",
+      "url": "https://app.ripplematch.com/v2/public/company/hubspot#cbp-jobs"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterestcareers.com/jobs/?search=&type=Intern&pagesize=20#results"
+    },
+    {
+      "name": "Intuit",
+      "url": "https://jobs.intuit.com/search-jobs/co-op/27595/1?glat=43.66999816894531&glon=-79.37940216064453"
+    },
+    {
+      "name": "Confluent",
+      "url": "https://careers.confluent.io/jobs/early_talent?early_talent=engineering"
+    },
+    {
+      "name": "X",
+      "url": "https://careers.x.com/en#positions"
+    },
+    {
+      "name": "xAI",
+      "url": "https://x.ai/careers/open-roles"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://careers.airbnb.com/positions/?_departments=early-career-program-intern"
+    },
+    {
+      "name": "Snowflake",
+      "url": "https://careers.snowflake.com/us/en/university"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.lifeatspotify.com/students?j=internship&j=early-career-program&l=new-york"
+    },
+    {
+      "name": "Riot Games",
+      "url": "https://www.riotgames.com/en/student-internships#roles"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55479%5D&1686_format=2312&listFilterMode=1&jobRecordsPerPage=12&utm_source=website&utm_medium=mktg_site&utm_content=company_en_cta"
+    },
+    {
+      "name": "Instacart",
+      "url": "https://www.instacart.careers/current-openings"
+    },
+    {
+      "name": "Snap",
+      "url": "https://careers.snap.com/jobs?query=intern"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit"
+    },
+    {
+      "name": "Discord",
+      "url": "https://job-boards.greenhouse.io/discord"
+    },
+    {
+      "name": "Datadog",
+      "url": "https://careers.datadoghq.com/all-jobs/"
+    },
+    {
+      "name": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns%2CGraduates"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://job-boards.greenhouse.io/vercel"
+    },
+    {
+      "name": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/internship-jobs"
+    }
+  ]
+}
