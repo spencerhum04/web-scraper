@@ -260,6 +260,7 @@
     { "name": "Whatsapp (Meta)", "url": "https://www.metacareers.com/jobs?roles[0]=Internship&q=software" },
     { "name": "Yelp", "url": "https://www.yelp.careers/us/en" },
     { "name": "Zoom", "url": "https://careers.zoom.us/" },
+    { "name": "Slack", "url": "https://slack.com/careers/type/intern#openings" }
     { "name": "JetBrains", "url": "https://internship.jetbrains.com/" }
   ]
 }
