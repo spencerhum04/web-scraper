@@ -3,7 +3,7 @@ name: Scrape SWE Internship Jobs
 on:
   workflow_dispatch:  # Allow manual triggering
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   scrape-jobs:
